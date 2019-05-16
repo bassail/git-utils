@@ -1,0 +1,5 @@
+<feat|fix|docs|ci|build|perf|refactor|style|test|revert>[(scope)]: <description>
+
+[optional body - Starts with "BREAKING CHANGE:" if needed]
+
+[optional footer with jira id - Starts with "BREAKING CHANGE:" if needed]

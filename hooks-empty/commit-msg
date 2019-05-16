@@ -1,0 +1,2 @@
+#!/bin/sh
+# Ne fait rien. Sert à être spécifié dans la config d'un repo qu'on veut exclure de la conf globale
